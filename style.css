@@ -56,7 +56,6 @@ p {
     font-family: "Outfit", sans-serif;
     color: #7a284e;
     margin-bottom: 16px;
-    margin-bottom: 32px;
 }
 
 li {
@@ -69,7 +68,7 @@ li + li {
     margin-top: 8px;
 }
 
-ol, lu {
+ol, ul {
     margin-left: 20px;
 }
 
